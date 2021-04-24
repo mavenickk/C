@@ -1,4 +1,4 @@
-# C
+# Figure Out SSS in "C"
 
 
 Codechef Link to question:
